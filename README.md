@@ -27,16 +27,17 @@ This repository contains a collection of projects and notebooks developed as par
    ```bash
    cd Artificial-Intelligence
    ```
-3. (Optional) Set up a virtual environment with Pipenv:
+3. Each subfolder contains a standalone project or notebook. Choose one to explore and follow its specific instructions if provided.
+4. (Optional) Set up a virtual environment with Pipenv:
    ```bash
    pipenv install
    pipenv shell
    ```
-4. Launch Jupyter Notebook:
+5. Launch Jupyter Notebook:
    ```bash
    jupyter notebook
    ```
-5. Open the desired notebook(s) and run the cells as needed.
+6. Open the desired notebook(s) and run the cells as needed.
 
 ## About the Course
 These materials were developed as part of a course offered by Rocketseat, aimed at exploring practical applications of artificial intelligence, data science, and machine learning using Python.
