@@ -10,6 +10,7 @@ This repository contains a collection of projects and notebooks developed as par
 - `not_supervised/`: Unsupervised learning algorithms.
 - `statistics_for_devs/`: Statistical concepts for developers.
 - `supervised/`: Supervised learning algorithms.
+- `challenge/`: Final Challenge - Financial Institutions.
 
 ## Technologies Used
 
